@@ -22,4 +22,6 @@ https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Standard
 
 https://www.javatpoint.com/standardscaler-in-sklearn
 
+https://www.javatpoint.com/fit-transform-and-fit_transform-methods-in-python
+
 
