@@ -11,4 +11,8 @@ https://www.youtube.com/watch?v=YYEJ_GUguHw
 
 https://github.com/AssemblyAI-Examples/Machine-Learning-From-Scratch
 
+Document:
+
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+
 
