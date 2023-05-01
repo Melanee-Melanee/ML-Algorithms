@@ -16,3 +16,10 @@ Document:
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 
 
+StandardScaler in Sklearn
+
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
+
+https://www.javatpoint.com/standardscaler-in-sklearn
+
+
